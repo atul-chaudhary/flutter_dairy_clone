@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "285891989328",
+    "firebase_url": "https://countrydairy-270b6.firebaseio.com",
+    "project_id": "countrydairy-270b6",
+    "storage_bucket": "countrydairy-270b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285891989328:android:1160313f673236c71ea655",
+        "android_client_info": {
+          "package_name": "com.rnatechlabs.country_dairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285891989328-a4kgn3ftsr1442t3j63a6t4a0tj6klja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rnatechlabs.country_dairy",
+            "certificate_hash": "b658f396b980dfa4344cf41c219b2d9ce276d751"
+          }
+        },
+        {
+          "client_id": "285891989328-7ucm3fuhrtc2kh86ur0lhb6n4aao8grm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAelRCJmdlFjA74_9Abs1bpBQNjntJmojQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285891989328-7ucm3fuhrtc2kh86ur0lhb6n4aao8grm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
