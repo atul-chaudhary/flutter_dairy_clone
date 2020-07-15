@@ -13,7 +13,6 @@ class _AdminLoginState extends State<AdminLogin> {
   @override
   void initState() {
     // TODO: implement initState
-
     super.initState();
   }
 

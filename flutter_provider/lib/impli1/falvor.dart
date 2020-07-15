@@ -1,1 +1,0 @@
-enum Flavor {android, flutter, ios}
